@@ -7,9 +7,9 @@
 > This site is where customers (users) will be able to purchase products related to the lifestyle brand.
 
 ## Java Models
-* Apparel
-* Accessories
-* Bundles
+* Shirts
+* Hoodies
+* Sweatpants
 
 ## Wireframe
 ![Wireframe](src/appendix/Wireframe/WF.png)
