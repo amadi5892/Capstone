@@ -7,17 +7,19 @@
 > This site is where customers (users) will be able to purchase products related to the lifestyle brand.
 
 ## Java Models
-* Products being sold
-* User creation/login
+* Apparel
+* Accessories
+* Bundles
 
 ## Wireframe
-![](src/appendix/Wireframe/WF.png)
+![Wireframe](src/appendix/Wireframe/WF.png)
 
 ## Libraries 
 > I would like to use SAAS if possible. I will try to learn and setup my database through SAAS.
 
 ## Post MVP
 * Add Shopping Cart
+* Add User creation/login
 * Add Payment acceptance
 
 ## Projected Schedule
