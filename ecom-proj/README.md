@@ -10,6 +10,9 @@
 * Products being sold
 * User creation/login
 
+## Wireframe
+![](src/appendix/Wireframe/WF.png)
+
 ## Libraries 
 > I would like to use SAAS if possible. I will try to learn and setup my database through SAAS.
 
